@@ -1,0 +1,5 @@
+I did not know you could use .test() to test the validity of something let
+alone wether or not it could be used for regexp. 
+
+.exec() seems to be a very useful command if trying to access a particular
+instance. 
